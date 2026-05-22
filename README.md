@@ -1,6 +1,50 @@
 # 💫 About Me:
-A second year Computer Science student at Mumbai University. I'm passionate about AI,Web Development,Python,SQL. I'm excited to learn and grow in the tech industry,and I'm looking forward to exploring opportunities in the Computer science field. Eagerly looking to explore the world of tech .<br><br>
+# Hi, I'm Gayatri 👋
 
+Second-year CS student at Mumbai University, graduating in 2027.
+I'm building my path into data analytics — turning messy datasets
+into clear stories that actually help people make decisions.
+
+Right now I'm looking for an **internship** where I can get my hands
+on real data problems. I work best when there's a question worth
+answering and a dataset to dig into.
+
+---
+
+## 🛠 What I work with
+
+**Languages & querying**
+`Python`   `SQL`   
+
+**Data & analysis**
+`Pandas`   `NumPy`   `Matplotlib`   `Seaborn`
+
+**Visualisation & BI**
+`Excel` `Power BI`
+
+---
+
+## 📊 Featured Project — Sales Data Analysis
+
+Analysed a business sales dataset to uncover revenue trends,
+top-performing product categories, and seasonal patterns.
+
+- Cleaned and transformed raw data using **Python + Pandas**
+- Wrote **SQL queries** to extract and aggregate key metrics
+- Built an interactive **Power BI dashboard** for stakeholder reporting
+- Identified the top 3 revenue drivers from 12+ months of data
+
+🔗 [View the repo →](https://github.com/gayatrijinaga16-cmyk)
+
+---
+
+## 📬 Let's connect
+
+I'm always open to internship opportunities, collab on data projects,
+or just talking about something interesting in the data space.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayatri.jinaga16@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itz_gayuzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gayatri-jinaga-547425322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gayatri.jinaga16@gmail.com) 
