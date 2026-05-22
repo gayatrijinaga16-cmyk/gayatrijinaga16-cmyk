@@ -1,6 +1,6 @@
 
 # Hi, I'm Gayatri 👋
-![Open to Internships](https://img.shields.io/badge/Open%20to-Internships%202025-brightgreen?style=for-the-badge)
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships%2026-brightgreen?style=for-the-badge)
 
 Second-year CS student at Mumbai University, graduating in 2027.
 I'm building my path into data analytics — turning messy datasets
