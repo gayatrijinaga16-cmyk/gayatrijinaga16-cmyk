@@ -34,9 +34,7 @@ answering and a dataset to dig into.
          
          
 
-          ![Snake animation](https://raw.githubusercontent.com/gayatrijinaga16-cmyk/gayatrijinaga16-cmyk/output/github-contribution-grid-snake.svg)
-
-          ![Open to Internships](https://img.shields.io/badge/Open%20to-Internships%202025-brightgreen?style=for-the-badge)
+         
 ---
 
 
