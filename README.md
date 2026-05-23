@@ -35,14 +35,6 @@ or just talking about something interesting in the data space.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&theme=dracula&hide_border=false&layout=compact)
-
----
-
 ## 📌 Featured Projects
 
 - 🚖 OLA Ride-Sharing Data Analysis
