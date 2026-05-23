@@ -23,6 +23,12 @@ answering and a dataset to dig into.
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gayatrijinaga16-cmyk&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+
+---
+
 ## 📬 Let's connect
 
 I'm always open to internship opportunities, collab on data projects,
