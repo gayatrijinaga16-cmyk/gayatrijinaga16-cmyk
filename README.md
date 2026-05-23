@@ -54,11 +54,10 @@ or just talking about something interesting in the data space.
 ![](https://nirzak-streak-stats.vercel.app/?user=gayatrijinaga16-cmyk&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📌 Featured Projects
-- OLA Ride-Sharing Data Analysis
-- Retail Customer Shopping Behavior Analysis
-- Mobile Sales Data Analysis
-- Heart Disease Data Analysis Dashboard
-
+- 🚖 OLA Ride-Sharing Data Analysis
+- 🛍️ Retail Customer Shopping Behavior Analysis
+- 📱 Mobile Sales Data Analysis
+- ❤️ Heart Disease Data Analysis Dashboard
 ---
 [![](https://visitcount.itsvg.in/api?id=gayatrijinaga16-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
