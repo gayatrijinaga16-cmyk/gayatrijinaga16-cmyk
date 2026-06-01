@@ -30,7 +30,7 @@
 <tr>
 <td valign="top" width="60%">
 
-## 🧠 About Me
+
 
 - 👩‍💻 **Name:** Gayatri Jinaga
 - 📍 **Location:** Mumbai, India
@@ -40,7 +40,7 @@
 - 📚 **Currently Learning:** Advanced DAX · Machine Learning · Tableau
 - 💡 **Motto:** If it can be measured, it can be improved.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding"/>
+
 ```
 
 </td>
