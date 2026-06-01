@@ -30,27 +30,17 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
-class GayatriJinaga:
-    def __init__(self):
-        self.name     = "Gayatri Jinaga"
-        self.location = "Mumbai, India"
-        self.degree   = "B.Sc. Computer Science (2027)"
-        self.college  = "RJ College, Mumbai"
-        self.role     = "Data Analyst"
-        self.stack    = [
-            "SQL (MySQL, PostgreSQL)",
-            "Python (Pandas, NumPy, Seaborn)",
-            "Power BI (DAX, Power Query)",
-            "MS Excel"
-        ]
-        self.learning = [
-            "Advanced DAX patterns",
-            "Machine Learning (Scikit-learn)",
-            "Tableau",
-        ]
-    def motto(self):
-        return "If it can be measured, it can be improved."
+## 🧠 About Me
+
+- 👩‍💻 **Name:** Gayatri Jinaga
+- 📍 **Location:** Mumbai, India
+- 🎓 **Degree:** B.Sc. Computer Science — RJ College, Mumbai (2027)
+- 💼 **Role:** Data Analyst
+- 🛠️ **Stack:** SQL · Python · Power BI · MS Excel
+- 📚 **Currently Learning:** Advanced DAX · Machine Learning · Tableau
+- 💡 **Motto:** If it can be measured, it can be improved.
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding"/>
 ```
 
 </td>
