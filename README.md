@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayatri%20Jinaga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Excel+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,11 +26,7 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
-
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding"/>
 
 - 👩‍💻 **Name:** Gayatri Jinaga
 - 📍 **Location:** Mumbai, India
@@ -40,15 +36,7 @@
 - 📚 **Currently Learning:** Advanced DAX · Machine Learning · Tableau
 - 💡 **Motto:** If it can be measured, it can be improved.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding"/>
-```
-
-</td>
-<td valign="top" align="center" width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
