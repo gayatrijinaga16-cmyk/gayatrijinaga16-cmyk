@@ -59,13 +59,15 @@
 
 ## 📊 GitHub Stats
 
+
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&count_private=true" alt="Stats" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
 ## 🔥 Streak Stats
 
@@ -83,12 +85,18 @@
 
 ---
 
-## 🏆 Trophy Wall
+
+
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatrijinaga16-cmyk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
-</div>
 
+![Commits](https://img.shields.io/badge/Total%20Commits-42-70a5fd?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-5-bf91f3?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Projects%20Built-4-38bdae?style=for-the-badge&logo=powerbi)
+![Simulations](https://img.shields.io/badge/Simulations-2-f7c948?style=for-the-badge&logo=data)
+
+</div>
 ---
 
 ## 💼 Work Experience & Simulations
