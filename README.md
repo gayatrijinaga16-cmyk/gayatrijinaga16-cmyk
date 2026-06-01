@@ -87,7 +87,7 @@
 ![Simulations](https://img.shields.io/badge/Simulations-2-f7c948?style=for-the-badge&logo=data)
 
 </div>
----
+
 
 ## 💼 Work Experience & Simulations
 
