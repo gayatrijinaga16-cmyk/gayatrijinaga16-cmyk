@@ -1,21 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayatri%20Jinaga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals;Final-Year+CS+Student+%40+RJ+College+Mumbai" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals;Final-Year+CS+Student+%40+RJ+College+Mumbai" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatrijinaga16-cmyk&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://linkedin.com/in/gayatri-jinaga-547425322">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gayatri-jinaga-547425322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:gayatri.jinaga16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/gayatrijinaga16-cmyk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -25,15 +26,17 @@
 
 ## 🧠 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class GayatriJinaga:
     def __init__(self):
         self.name        = "Gayatri Jinaga"
         self.location    = "Mumbai, India"
-        self.degree      = "B.Sc. Computer Science (Expected 2027)"
-        self.college     = "Ramniranjan Jhunjhunwala College"
+        self.degree      = "B.Sc. Computer Science (2027)"
+        self.college     = "RJ College, Mumbai"
         self.role        = "Data Analyst"
 
         self.stack = [
@@ -49,14 +52,21 @@ class GayatriJinaga:
             "Tableau",
         ]
 
-        self.fun_fact = "I once found a hidden operational leak "\
-                        "in 100k+ ride records — it was cancellations 🚗"
+        self.fun_fact = (
+            "Found a hidden operational leak "
+            "in 100K+ ride records 🚗"
+        )
 
     def motto(self):
         return "If it can be measured, it can be improved. 📊"
-```
+` ` `
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="40%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,20 +95,16 @@ class GayatriJinaga:
 **Tools & Platforms**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Gamma AI](https://img.shields.io/badge/Gamma%20AI-6C63FF?style=flat-square&logo=ai&logoColor=white)
-![Forage](https://img.shields.io/badge/Forage-00A86B?style=flat-square&logo=data&logoColor=white)
+![Gamma AI](https://img.shields.io/badge/Gamma%20AI-6C63FF?style=flat-square&logo=data&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Gayatri's GitHub Stats"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Gayatri's GitHub Stats"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </div>
 
 ---
@@ -160,10 +166,10 @@ class GayatriJinaga:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**OLA Dataset Analysis Dashboard**](https://github.com/gayatrijinaga16-cmyk) | MySQL · Power BI | Queried 100K+ ride records; identified driver cancellations (10–20% of all rides) as the #1 operational leak via 5 custom KPIs; slicers cut time-to-insight from manual queries to a single click |
-| [**Mobile Sales Dashboard**](https://github.com/gayatrijinaga16-cmyk) | Power BI | Analysed 10+ brands across multiple cities; confirmed Apple as highest-revenue brand; 3 KPI cards with MoM trend lines; map visual revealed geographic sales concentration |
-| [**Retail Customer Behavior & Shopping Trends**](https://github.com/gayatrijinaga16-cmyk) | Python · SQL · Power BI | Cleaned raw retail data in Pandas; segmented customers by recency & frequency; surfaced credit card users as highest-value segment; packaged into dashboard + Gamma AI deck with 3 strategic recommendations |
-| [**Heart Disease Analysis Dashboard**](https://github.com/gayatrijinaga16-cmyk) | Power BI · DAX | Modelled 300+ patient records; established serum sodium as the variable most correlated with death events via DAX cross-filtering; 6 KPI cards + gender-based slicer for full clinical exploration |
+| **OLA Dataset Analysis Dashboard** | MySQL · Power BI | Queried 100K+ ride records; identified driver cancellations (10–20% of rides) as #1 operational leak via 5 custom KPIs |
+| **Mobile Sales Dashboard** | Power BI | Analysed 10+ brands; confirmed Apple as highest-revenue brand; 3 KPI cards with MoM trend lines; map visual for geo insights |
+| **Retail Customer Behavior & Shopping Trends** | Python · SQL · Power BI | Segmented customers by recency & frequency; surfaced credit card users as highest-value segment; 3 strategic recommendations |
+| **Heart Disease Analysis Dashboard** | Power BI · DAX | Modelled 300+ patient records; serum sodium identified as top predictor of death events via DAX cross-filtering |
 
 </div>
 
@@ -175,11 +181,11 @@ class GayatriJinaga:
 
 | 🏆 | Achievement | Details |
 |---|---|---|
-| 🤖 | **GenAI Powered Data Analytics Simulation** | Tata iQ × Forage — EDA, risk flagging, predictive modeling framework, ethical AI strategy (2025) |
-| 📊 | **Data Analytics Job Simulation** | Deloitte Australia × Forage — Tableau dashboard, Excel forensic analytics, business conclusions (2025) |
+| 🤖 | **GenAI Powered Data Analytics Simulation** | Tata iQ × Forage — EDA, risk flagging, predictive modeling, ethical AI strategy (2025) |
+| 📊 | **Data Analytics Job Simulation** | Deloitte Australia × Forage — Tableau dashboard, Excel forensic analytics (2025) |
 | 📗 | **Microsoft Excel Masterclass with AI** | SkillCourse — data analysis, automation, reporting, AI-based productivity (2026) |
 | 📘 | **Power BI 7-Hour Free Course** | SkillCourse — data transformation, interactive dashboards, business visualisation (2026) |
-| 🗄️ | **30 Days SQL Micro Course** | SkillCourse — queries, joins, aggregation, filtering, sorting, date functions (2026) |
+| 🗄️ | **30 Days SQL Micro Course** | SkillCourse — queries, joins, aggregation, filtering, date functions (2026) |
 
 </div>
 
@@ -197,9 +203,6 @@ class GayatriJinaga:
 
 ---
 
-
-
----
 
 ## 🌐 Languages
 
