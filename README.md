@@ -81,13 +81,12 @@ class GayatriJinaga:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Stats"/>
   &nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 </div>
+
 ---
 
 ## 🔥 Streak Stats
@@ -105,8 +104,6 @@ class GayatriJinaga:
 </div>
 
 ---
-
-## 🏆 Trophy Wall
 
 ## 🏆 Trophy Wall
 
@@ -187,8 +184,6 @@ class GayatriJinaga:
 </div>
 
 ---
-
-## 📚 Currently Learning
 
 ---
 
