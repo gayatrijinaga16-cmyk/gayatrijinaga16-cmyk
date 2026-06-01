@@ -1,53 +1,214 @@
-# Hi, I'm Gayatri 👋
-![Open to Internships](https://img.shields.io/badge/Open%20to-Internships%202026-brightgreen?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayatri%20Jinaga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
 
-Second-year CS student at Mumbai University, graduating in 2027.
-I'm building my path into data analytics — turning messy datasets
-into clear stories that actually help people make decisions.
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals;Final-Year+CS+Student+%40+RJ+College+Mumbai" alt="Typing SVG" />
+  </a>
+</div>
 
-Right now I'm looking for an **internship** where I can get my hands
-on real data problems. I work best when there's a question worth
-answering and a dataset to dig into.
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gayatrijinaga16-cmyk&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/gayatri-jinaga-547425322">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gayatri.jinaga16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/gayatrijinaga16-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-## 🛠 What I work with
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-150458?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class GayatriJinaga:
+    def __init__(self):
+        self.name        = "Gayatri Jinaga"
+        self.location    = "Mumbai, India"
+        self.degree      = "B.Sc. Computer Science (Expected 2027)"
+        self.college     = "Ramniranjan Jhunjhunwala College"
+        self.role        = "Data Analyst"
+
+        self.stack = [
+            "SQL (MySQL, PostgreSQL)",
+            "Python (Pandas, NumPy, Matplotlib, Seaborn)",
+            "Power BI (DAX, Power Query)",
+            "MS Excel"
+        ]
+
+        self.currently_learning = [
+            "Advanced DAX patterns",
+            "Machine Learning with Scikit-learn",
+            "Tableau",
+        ]
+
+        self.fun_fact = "I once found a hidden operational leak "\
+                        "in 100k+ ride records — it was cancellations 🚗"
+
+    def motto(self):
+        return "If it can be measured, it can be improved. 📊"
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Querying**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Python Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Gamma AI](https://img.shields.io/badge/Gamma%20AI-6C63FF?style=flat-square&logo=ai&logoColor=white)
+![Forage](https://img.shields.io/badge/Forage-00A86B?style=flat-square&logo=data&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gayatrijinaga16-cmyk&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Gayatri's GitHub Stats"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
+</div>
 
 ---
 
-## 📬 Let's connect
+## 🔥 Streak Stats
 
-I'm always open to internship opportunities, collab on data projects,
-or just talking about something interesting in the data space.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-jinaga-547425322/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayatri.jinaga16@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gayatrijinaga16-cmyk&color=blueviolet&style=flat-square&label=Profile+Views)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gayatrijinaga16-cmyk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 📈 Activity Graph
 
-- 🚖 OLA Ride-Sharing Data Analysis
-- 🛍️ Retail Customer Shopping Behavior Analysis
-- 📱 Mobile Sales Data Analysis
-- ❤️ Heart Disease Data Analysis Dashboard
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatrijinaga16-cmyk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gayatrijinaga16-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatrijinaga16-cmyk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience & Simulations
+
+<details>
+<summary><strong>Tata iQ × Forage — GenAI Powered Data Analytics Simulation &nbsp;|&nbsp; 2025</strong></summary>
+
+> `EDA` `GenAI Tools` `Predictive Modeling` `Ethical AI` `Risk Analysis`
+
+- Ran end-to-end Exploratory Data Analysis using GenAI tools to surface risk indicators in a real-world dataset.
+- Proposed a predictive modeling framework with clear evaluation criteria and business applicability.
+- Drafted an AI-driven collections strategy under ethical AI constraints — balancing model performance with fairness.
+- Delivered findings in a structured format suitable for C-suite presentation.
+
+</details>
+
+<details>
+<summary><strong>Deloitte Australia × Forage — Data Analytics Job Simulation &nbsp;|&nbsp; 2025</strong></summary>
+
+> `Tableau` `Excel` `Forensic Analytics` `Business Intelligence`
+
+- Built a Tableau dashboard to visualise forensic data patterns and surface anomalies.
+- Applied forensic analytics methods in Excel to classify data and validate business conclusions.
+- Extracted and communicated actionable business insights from complex, multi-variable datasets.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**OLA Dataset Analysis Dashboard**](https://github.com/gayatrijinaga16-cmyk) | MySQL · Power BI | Queried 100K+ ride records; identified driver cancellations (10–20% of all rides) as the #1 operational leak via 5 custom KPIs; slicers cut time-to-insight from manual queries to a single click |
+| [**Mobile Sales Dashboard**](https://github.com/gayatrijinaga16-cmyk) | Power BI | Analysed 10+ brands across multiple cities; confirmed Apple as highest-revenue brand; 3 KPI cards with MoM trend lines; map visual revealed geographic sales concentration |
+| [**Retail Customer Behavior & Shopping Trends**](https://github.com/gayatrijinaga16-cmyk) | Python · SQL · Power BI | Cleaned raw retail data in Pandas; segmented customers by recency & frequency; surfaced credit card users as highest-value segment; packaged into dashboard + Gamma AI deck with 3 strategic recommendations |
+| [**Heart Disease Analysis Dashboard**](https://github.com/gayatrijinaga16-cmyk) | Power BI · DAX | Modelled 300+ patient records; established serum sodium as the variable most correlated with death events via DAX cross-filtering; 6 KPI cards + gender-based slicer for full clinical exploration |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|---|---|---|
+| 🤖 | **GenAI Powered Data Analytics Simulation** | Tata iQ × Forage — EDA, risk flagging, predictive modeling framework, ethical AI strategy (2025) |
+| 📊 | **Data Analytics Job Simulation** | Deloitte Australia × Forage — Tableau dashboard, Excel forensic analytics, business conclusions (2025) |
+| 📗 | **Microsoft Excel Masterclass with AI** | SkillCourse — data analysis, automation, reporting, AI-based productivity (2026) |
+| 📘 | **Power BI 7-Hour Free Course** | SkillCourse — data transformation, interactive dashboards, business visualisation (2026) |
+| 🗄️ | **30 Days SQL Micro Course** | SkillCourse — queries, joins, aggregation, filtering, sorting, date functions (2026) |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Location | Expected Graduation |
+|---|---|---|---|
+| B.Sc. Computer Science | Ramniranjan Jhunjhunwala College | Mumbai, India | 2027 |
+
+</div>
+
+---
+
+
+
+---
+
+## 🌐 Languages
+
+`English — Proficient` &nbsp;·&nbsp; `Hindi — Native` &nbsp;·&nbsp; `Marathi — Native` &nbsp;·&nbsp; `Telugu — Native`
+
+---
+
+<div align="center">
+  <i>"Data is the new oil — but only if you can refine it."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
