@@ -81,12 +81,13 @@ class GayatriJinaga:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-stats.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
-</div>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gayatrijinaga16-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gayatrijinaga16-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+</div>
 ---
 
 ## 🔥 Streak Stats
@@ -107,8 +108,10 @@ class GayatriJinaga:
 
 ## 🏆 Trophy Wall
 
+## 🏆 Trophy Wall
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatrijinaga16-cmyk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatrijinaga16-cmyk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
 </div>
 
 ---
