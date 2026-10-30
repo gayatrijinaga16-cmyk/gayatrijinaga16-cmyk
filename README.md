@@ -84,6 +84,15 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 
 [**View Mobile Sales project repository →**](https://github.com/gayatrijinaga16-cmyk/Mobile-Sales-Data-Analysis-Project)
 
+### 3. Retail Customer Behavior Analysis
+
+**Tech:** Python · Pandas · SQL · Power BI
+
+- Cleaned and transformed retail datasets using Python and Pandas.
+- Used SQL to segment customers by recency and spending frequency.
+- Identified customer purchasing patterns.
+- Built a Power BI dashboard to communicate insights.
+
 ## Project Highlights & Learning
 
 <p align="center">
