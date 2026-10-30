@@ -1,173 +1,143 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayatri%20Jinaga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Excel+%2B+Power+BI+%2B+Python;Building+Dashboards+That+Tell+Stories;From+Messy+Data+to+Presentation-Ready+Visuals" alt="Typing SVG" />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+    <img src="./banner-light.svg?v=1" alt="Gayatri Jinaga — Aspiring Data Analyst | Turning Raw Data into Meaningful Insights" width="100%">
+  </picture>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayatrijinaga16-cmyk&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gayatri-jinaga-547425322">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:gayatri.jinaga16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/gayatrijinaga16-cmyk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/gayatri-jinaga-547425322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/gayatrijinaga16-cmyk"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:gayatri.jinaga16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=gayatrijinaga16-cmyk&style=for-the-badge&color=ec4899" alt="Profile views">
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding"/>
+I'm **Gayatri Jinaga**, an aspiring Data Analyst currently pursuing a **B.Sc. in Computer Science at Ramniranjan Jhunjhunwala College, Mumbai (Expected 2027)**.
 
-- 👩‍💻 **Name:** Gayatri Jinaga
-- 📍 **Location:** Mumbai, India
-- 🎓 **Degree:** B.Sc. Computer Science — RJ College, Mumbai (2027)
-- 💼 **Role:** Data Analyst
-- 🛠️ **Stack:** SQL · Python · Power BI · MS Excel
+I enjoy turning raw data into meaningful insights by cleaning and exploring datasets, identifying patterns, developing KPIs, and presenting findings through clear visualizations and interactive dashboards.
 
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-
-
-## 🔥 Streak Stats
+- **Focus:** Data Analytics, Exploratory Data Analysis, Business Intelligence and Reporting
+- **Tools:** Python, SQL, MySQL, PostgreSQL, Power BI and Microsoft Excel
+- **Currently building:** Practical analytics projects and stronger analytical workflows
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/gayatri-jinaga-547425322/) · [Email](mailto:gayatri.jinaga16@gmail.com)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatrijinaga16-cmyk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10" alt="Streak"/>
+  <img src="./lanyard.svg?v=1" width="250" alt="Animated Gayatri Jinaga analyst ID card">
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatrijinaga16-cmyk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-
-
-## 🏆 Achievements
+## Technical Skills
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-42-70a5fd?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-5-bf91f3?style=for-the-badge&logo=github)
-![Projects](https://img.shields.io/badge/Projects%20Built-4-38bdae?style=for-the-badge&logo=powerbi)
-![Simulations](https://img.shields.io/badge/Simulations-2-f7c948?style=for-the-badge&logo=data)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-865FC5?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-6B4FBB?style=for-the-badge)
 
 </div>
 
+<p align="center">
+  <img src="./langs.svg?v=1" alt="Technical toolkit grouped by category; bars are decorative, not proficiency scores" width="100%">
+</p>
 
-## 💼 Work Experience & Simulations
+**Analytics competencies:** Exploratory Data Analysis (EDA) · Data Cleaning · Data Transformation · KPI Design · Data Visualization · Reporting
 
-<details>
-<summary><strong>Tata iQ × Forage — GenAI Powered Data Analytics Simulation | 2025</strong></summary>
-<br>
+## GitHub & Project Snapshot
 
-`EDA` `GenAI Tools` `Predictive Modeling` `Ethical AI` `Risk Analysis`
+<p align="center">
+  <img src="./stats.svg?v=1" alt="Project metrics: 100K plus ride records, 5 KPIs, 10 plus mobile brands, 5 cities and 4 payment methods" width="100%">
+</p>
 
-- Ran end-to-end EDA using GenAI tools to surface risk indicators in a real-world dataset.
-- Proposed a predictive modeling framework with clear evaluation criteria.
-- Drafted an AI-driven collections strategy under ethical AI constraints.
-- Delivered findings in a structured format suitable for C-suite presentation.
+> The repository count is a public-profile snapshot observed on October 30, 2026. Project metrics are taken from the project details supplied for this portfolio; no global GitHub ranking or language-usage percentages are claimed.
 
-</details>
+## Featured Projects
 
-<details>
-<summary><strong>Deloitte Australia × Forage — Data Analytics Job Simulation | 2025</strong></summary>
-<br>
+### 1. OLA Ride-Sharing Data Analysis
 
-`Tableau` `Excel` `Forensic Analytics` `Business Intelligence`
+**Tech:** MySQL · SQL · Power BI · DAX
 
-- Built a Tableau dashboard to visualise forensic data patterns and surface anomalies.
-- Applied forensic analytics methods in Excel to classify data and validate conclusions.
-- Extracted actionable business insights from complex, multi-variable datasets.
+- Analyzed **100,000+ OLA ride records** to explore booking trends and operational performance.
+- Examined records across **3 vehicle types, 5 cities and 4 payment methods**.
+- Developed **5 custom KPIs** and built an interactive Power BI dashboard with filters for vehicle type, city and time period.
 
-</details>
+[**View OLA project repository →**](https://github.com/gayatrijinaga16-cmyk/OLA-Ride-Sharing-Data-Analyst-Project)
 
----
+### 2. Mobile Sales Performance Dashboard
 
-## 🚀 Featured Projects
+**Tech:** Power BI · Data Visualization · KPI Analysis
+
+- Developed a Power BI dashboard analyzing mobile sales across **10+ brands** and multiple cities.
+- Created KPI cards and month-over-month sales trend visualizations.
+- Used geographical visualizations to explore city-wise revenue distribution.
+
+[**View Mobile Sales project repository →**](https://github.com/gayatrijinaga16-cmyk/Mobile-Sales-Data-Analysis-Project)
+
+## Project Highlights & Learning
+
+<p align="center">
+  <img src="./trophies.svg?v=1" alt="Project milestones and job simulation learning highlights" width="100%">
+</p>
+
+## Education
+
+**B.Sc. in Computer Science**  
+Ramniranjan Jhunjhunwala College, Mumbai  
+**Expected Graduation:** 2027
+
+## Certifications & Job Simulations
+
+- **GenAI Powered Data Analytics Simulation** — Tata iQ × Forage, 2025
+- **Data Analytics Job Simulation** — Deloitte Australia × Forage, 2025
+- **Microsoft Excel Masterclass with AI** — SkillCourse, 2026
+- **Power BI 7-Hours Free Course** — SkillCourse, 2026
+- **30 Days SQL Micro Course** — SkillCourse, 2026
+
+## Languages
+
+- English — Proficient
+- Hindi — Native
+- Marathi — Native
+- Telugu — Native
+
+## GitHub Activity & Contribution Snake
+
+The contribution-calendar animation below is generated from your GitHub activity and refreshed by the daily workflow.
+
 
 <div align="center">
-
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| [**OLA Dataset Analysis**](https://github.com/gayatrijinaga16-cmyk/OLA-Ride-Sharing-Data-Analyst-Project) | MySQL · Power BI | 100K+ ride records; driver cancellations (10–20%) identified as #1 operational leak via 5 custom KPIs |
-| [**Mobile Sales Dashboard**](https://github.com/gayatrijinaga16-cmyk/Mobile-Sales-Data-Analysis-Project) | Power BI | 10+ brands analysed; Apple confirmed highest-revenue; MoM KPI cards + geo map visual |
-| [**Retail Customer Behavior**](https://github.com/gayatrijinaga16-cmyk/Retail-Customer-Shopping-Behavior-Analysis-Data-Analysis-Project) | Python · SQL · Power BI | Credit card users surfaced as highest-value segment; 3 strategic recommendations delivered |
-| [**Heart Disease Analysis**](https://github.com/gayatrijinaga16-cmyk/Heart-Disease-Data-Analyst-Project) | Power BI · DAX | 300+ patient records; serum sodium identified as top predictor of death events via DAX cross-filtering |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gayatrijinaga16-cmyk/gayatrijinaga16-cmyk/output/github-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gayatrijinaga16-cmyk/gayatrijinaga16-cmyk/output/github-snake.svg?v=1">
+    <img src="https://raw.githubusercontent.com/gayatrijinaga16-cmyk/gayatrijinaga16-cmyk/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="100%">
+  </picture>
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/gayatrijinaga16-cmyk?tab=repositories">Explore my repositories</a>
+</p>
 
-## 🏅 Achievements & Certifications
+## Let's Connect
+
+I'm open to connecting with data professionals, recruiters, and fellow learners, and exploring suitable Data Analyst internship and entry-level opportunities.
 
 <div align="center">
-
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🤖 | **GenAI Powered Data Analytics** | Tata iQ × Forage — EDA, risk flagging, ethical AI strategy (2025) |
-| 📊 | **Data Analytics Job Simulation** | Deloitte Australia × Forage — Tableau + Excel forensic analytics (2025) |
-| 📗 | **Microsoft Excel Masterclass with AI** | SkillCourse — automation, reporting, AI productivity (2026) |
-| 📘 | **Power BI 7-Hour Course** | SkillCourse — dashboards, DAX, data transformation (2026) |
-| 🗄️ | **30 Days SQL Micro Course** | SkillCourse — joins, aggregation, date functions (2026) |
-
+  <a href="https://www.linkedin.com/in/gayatri-jinaga-547425322/"><img src="https://img.shields.io/badge/LinkedIn-Gayatri_Jinaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/gayatrijinaga16-cmyk"><img src="https://img.shields.io/badge/GitHub-gayatrijinaga16--cmyk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:gayatri.jinaga16@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
----
-
-## 🎓 Education
 
 <div align="center">
-
-| Degree | Institution | Location | Graduation |
-|:---:|:---:|:---:|:---:|
-| B.Sc. Computer Science | Ramniranjan Jhunjhunwala College | Mumbai, India | 2027 |
-
+  <sub><b>Turning Raw Data into Meaningful Insights.</b> · Analyze • Visualize • Inspire</sub>
 </div>
-
----
-
----
-
-## 🌐 Languages
-
-`English — Proficient` &nbsp;·&nbsp; `Hindi — Native` &nbsp;·&nbsp; `Marathi — Native` &nbsp;·&nbsp; `Telugu — Native`
-
----
-
-<div align="center">
-  <i>"Data is the new oil — but only if you can refine it."</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
