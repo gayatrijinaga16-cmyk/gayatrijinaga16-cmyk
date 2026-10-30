@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="330" viewBox="0 0 1080 330" role="img" aria-labelledby="t d">
+<title id="t">Gayatri Jinaga GitHub and project statistics</title><desc id="d">Five repositories shown on the public GitHub profile, plus project metrics: 100 thousand plus OLA ride records, five KPIs, ten plus mobile brands, five cities, four payment methods and three vehicle types.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#160d2a"/><stop offset="1" stop-color="#251141"/></linearGradient>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff5ca8"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#55c7ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.card{fill:#201333;stroke:#604078;stroke-width:1.2}.shine{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+</defs>
+<rect x="1" y="1" width="1078" height="328" rx="24" fill="url(#bg)" stroke="#74458e"/>
+<text x="34" y="43" font-size="13" font-weight="800" letter-spacing="3" fill="#f9a8d4">GITHUB + PROJECT SNAPSHOT</text>
+<text x="34" y="68" font-size="11" fill="#cdbbdd">Account count + project metrics · no unverified rank</text>
+<circle cx="172" cy="195" r="93" fill="none" stroke="#432957" stroke-width="15"/>
+<circle cx="172" cy="195" r="93" fill="none" stroke="url(#g)" stroke-width="15" stroke-linecap="round" stroke-dasharray="490 584" transform="rotate(-90 172 195)" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="0 584;490 584;490 584" dur="2.5s" fill="freeze"/></circle>
+<circle cx="172" cy="195" r="68" fill="#1b102d" stroke="#7b4d98" stroke-opacity=".45"/>
+<text x="172" y="191" font-size="39" font-weight="900" text-anchor="middle" fill="#fff5fc">05</text>
+<text x="172" y="216" font-size="10" letter-spacing="2" text-anchor="middle" fill="#e9b4ff">REPOSITORIES</text>
+<text x="172" y="309" font-size="10" letter-spacing="2" text-anchor="middle" fill="#c6b3d8">GITHUB PROFILE</text>
+<g transform="translate(330 91)">
+ <g><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="26" font-weight="900" fill="#ff79b9">100K+</text><text x="122" y="34" font-size="12" font-weight="800" fill="#fff4fb">RIDE RECORDS</text><text x="122" y="55" font-size="10" fill="#cdbbdd">OLA analysis</text><circle cx="194" cy="18" r="4" fill="#ff79b9" class="shine"/></g>
+ <g transform="translate(234 0)"><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="30" font-weight="900" fill="#b99aff">05</text><text x="75" y="34" font-size="12" font-weight="800" fill="#fff4fb">CUSTOM KPIs</text><text x="75" y="55" font-size="10" fill="#cdbbdd">Ride-share dashboard</text><circle cx="194" cy="18" r="4" fill="#b99aff" class="shine"/></g>
+ <g transform="translate(468 0)"><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="30" font-weight="900" fill="#72d7ff">10+</text><text x="85" y="34" font-size="12" font-weight="800" fill="#fff4fb">MOBILE BRANDS</text><text x="85" y="55" font-size="10" fill="#cdbbdd">Sales analysis</text><circle cx="194" cy="18" r="4" fill="#72d7ff" class="shine"/></g>
+ <g transform="translate(0 99)"><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="30" font-weight="900" fill="#72d7ff">05</text><text x="75" y="34" font-size="12" font-weight="800" fill="#fff4fb">CITIES</text><text x="75" y="55" font-size="10" fill="#cdbbdd">OLA dataset coverage</text><circle cx="194" cy="18" r="4" fill="#72d7ff" class="shine"/></g>
+ <g transform="translate(234 99)"><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="30" font-weight="900" fill="#8be2bc">04</text><text x="75" y="34" font-size="12" font-weight="800" fill="#fff4fb">PAYMENT METHODS</text><text x="75" y="55" font-size="10" fill="#cdbbdd">OLA dataset coverage</text><circle cx="194" cy="18" r="4" fill="#8be2bc" class="shine"/></g>
+ <g transform="translate(468 99)"><rect class="card" width="218" height="82" rx="16"/><text x="17" y="38" font-size="30" font-weight="900" fill="#ffb0d7">03</text><text x="75" y="34" font-size="12" font-weight="800" fill="#fff4fb">VEHICLE TYPES</text><text x="75" y="55" font-size="10" fill="#cdbbdd">OLA dataset coverage</text><circle cx="194" cy="18" r="4" fill="#ffb0d7" class="shine"/></g>
+</g>
+<text x="330" y="309" font-size="9" fill="#967daa">GitHub repository count observed Oct 30, 2026; project metrics from portfolio details.</text>
+</svg>
