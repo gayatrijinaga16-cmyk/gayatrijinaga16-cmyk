@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-    <img src="./banner-light.svg?v=1" alt="Gayatri Jinaga — Aspiring Data Analyst | Turning Raw Data into Meaningful Insights" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+    <img src="./banner-light.svg?v=2" alt="Gayatri Jinaga — Aspiring Data Analyst | Turning Raw Data into Meaningful Insights" width="100%">
   </picture>
 
   <br>
@@ -26,7 +26,7 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/gayatri-jinaga-547425322/) · [Email](mailto:gayatri.jinaga16@gmail.com)
 
 <div align="center">
-  <img src="./lanyard.svg?v=1" width="250" alt="Animated Gayatri Jinaga analyst ID card">
+  <img src="./lanyard.svg?v=2" width="250" alt="Animated Gayatri Jinaga analyst ID card">
 </div>
 
 ## Technical Skills
@@ -83,15 +83,6 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 - Used geographical visualizations to explore city-wise revenue distribution.
 
 [**View Mobile Sales project repository →**](https://github.com/gayatrijinaga16-cmyk/Mobile-Sales-Data-Analysis-Project)
-
-### 3. Retail Customer Behavior Analysis
-
-**Tech:** Python · Pandas · SQL · Power BI
-
-- Cleaned and transformed retail datasets using Python and Pandas.
-- Used SQL to segment customers by recency and spending frequency.
-- Identified customer purchasing patterns.
-- Built a Power BI dashboard to communicate insights.
 
 ## Project Highlights & Learning
 
