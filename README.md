@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-    <img src="./banner-light.svg?v=2" alt="Gayatri Jinaga — Aspiring Data Analyst | Turning Raw Data into Meaningful Insights" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+    <img src="./banner-light.svg?v=3" alt="Gayatri Jinaga — Aspiring Data Analyst | Turning Raw Data into Meaningful Insights" width="100%">
   </picture>
 
   <br>
@@ -49,7 +49,7 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 </div>
 
 <p align="center">
-  <img src="./langs.svg?v=1" alt="Technical toolkit grouped by category; bars are decorative, not proficiency scores" width="100%">
+  <img src="./langs.svg?v=2" alt="Technical toolkit grouped by category; bars are decorative, not proficiency scores" width="100%">
 </p>
 
 **Analytics competencies:** Exploratory Data Analysis (EDA) · Data Cleaning · Data Transformation · KPI Design · Data Visualization · Reporting
@@ -57,7 +57,7 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 ## GitHub & Project Snapshot
 
 <p align="center">
-  <img src="./stats.svg?v=1" alt="Project metrics: 20,407 ride bookings, 5 KPIs, 5 mobile brands, 19 cities in the mobile sales dataset, 4 payment methods and 7 vehicle types" width="100%">
+  <img src="./stats.svg?v=2" alt="Project metrics: 20,407 ride bookings, 5 KPIs, 5 mobile brands, 19 cities in the mobile sales dataset, 4 payment methods and 7 vehicle types" width="100%">
 </p>
 
 > Project metrics come from the datasets used in my project repositories.
@@ -106,7 +106,7 @@ I enjoy turning raw data into meaningful insights by cleaning and exploring data
 ## Project Highlights & Learning
 
 <p align="center">
-  <img src="./trophies.svg?v=1" alt="Project milestones and job simulation learning highlights" width="100%">
+  <img src="./trophies.svg?v=2" alt="Project milestones and job simulation learning highlights" width="100%">
 </p>
 
 ## Education
